@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- http://localhost:8080/trello-cards/ -->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="trello-cards.css" rel="stylesheet">
+    <title>Trello Cards</title>
+  </head>
+
+
+  <body>
+    <header>
+      <h1>Trello Cards</h1>
+    </header>
+    <div>
+      <main>
+        <form action="" method="get">
+          <div>
+            <label for="filename">Trello JSON Filename: </label>
+            <input type="text" name="filename" id="filename" required>
+          </div>
+          <div>
+            <input type="submit" id="submitBtn" value="Load File">
+          </div>
+        </form>
+
+        <table id="trellooutput" class="mytable">
+
+        </table>
+      </main>
+    </div>
+
+    <script src="trello-cards.js"></script>
+  </body>
+</html>
