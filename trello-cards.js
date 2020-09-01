@@ -27,12 +27,29 @@ function loadTrelloCards(url){
 		fetch(url).then(function(response){
 			response.json().then(function(json) {
 				trelloCardsJSON = json;
+				renderHeaderHTML();
 				buildMemberMap(trelloCardsJSON.members);
 				buildCardList(trelloCardsJSON.cards);
-				renderCardTableHTML();
+				renderCardTableHTML(trelloCardsJSON);
 			});
 		});
 	}	
+
+	function renderHeaderHTML(board){
+		let hdr = document.querySelector('#trelloboardHdr');
+		let headerInfo = [];
+		
+		headerInfo.push("<h1>");
+		headerInfo.push("Trello Board: ");
+		headerInfo.push(board.name);
+		headerInfo.push("</h1>");
+		headerInfo.push("<p class='italic'>");
+		headerInfo.push("Board Last Updated: ");
+		headerInfo.push(board.dateLastActivity.slice(0,15));
+		headerInfo.push("</p>");
+
+		hdr.innerHTML = headerInfo.join('');
+	}
 
 	function buildCardList(cards){
 		const templateLongAlias = 'DA2 Report Alias:';
