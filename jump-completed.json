@@ -9,7 +9,7 @@
 	"idOrganization": "5d5d6deb1f30e312177a2043",
 	"shortLink": "ExM7la3B",
 	"powerUps": [],
-	"dateLastActivity": "2020-08-27T18:42:57.512Z",
+	"dateLastActivity": "2020-09-01T18:51:38.204Z",
 	"idTags": [],
 	"datePluginDisable": null,
 	"creationMethod": null,
@@ -19,7 +19,7 @@
 	"starred": false,
 	"url": "https://trello.com/b/ExM7la3B/jump-reporting-complete",
 	"shortUrl": "https://trello.com/b/ExM7la3B",
-	"ixUpdate": "2868",
+	"ixUpdate": "2915",
 	"limits": {
 		"attachments": {
 			"perBoard": {
@@ -138,7 +138,7 @@
 	"subscribed": false,
 	"templateGallery": null,
 	"premiumFeatures": [],
-	"dateLastView": "2020-08-31T20:21:47.967Z",
+	"dateLastView": "2020-09-01T21:17:06.226Z",
 	"labelNames": {
 		"green": "",
 		"yellow": "More Info Needed",
@@ -227,6 +227,476 @@
 		"canInvite": true
 	},
 	"actions": [
+		{
+			"id": "5f4e983a67e4c04cb2bbcde2",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5d5d670dd144df1b984c988f",
+					"name": "[onc72] Discharge Medication Order Analysis (OCM)",
+					"idShort": 151,
+					"shortLink": "8CjxejQ5"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:51:38.043Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e970f179102261e903959",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5ec2ff13440d8f4cc11a29c9",
+					"name": "[him33] Patient Stats by Nursing Unit",
+					"idShort": 150,
+					"shortLink": "FiZZxHu4"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:46:39.965Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e96730d1d1169f57a6db0",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dc061087f8d4a04c5e2004f",
+					"name": "[ext31] CSC Coding Extract",
+					"idShort": 149,
+					"shortLink": "6CEFxImL"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:44:03.980Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e95ac1434e66f109f3a16",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5f1861380743af3d1950ae3c",
+					"name": "[ext54] PMMC: Medical Service Master",
+					"idShort": 148,
+					"shortLink": "CMAwxCpW"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:44.086Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e95a4a53c338b6d0b3111",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dd54a5f19cee056f1b3eff4",
+					"name": "[ext36] PMMC: Payment Adjustments File",
+					"idShort": 147,
+					"shortLink": "xQ5PDJo4"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:36.895Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e959ddd71e98ea7793872",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dd54a5f1101a587922286f8",
+					"name": "[ext35] PMMC: Balance File",
+					"idShort": 146,
+					"shortLink": "8oOhsIHe"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:29.803Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e9594b30a3153d8bf8b8c",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dd54a5f8c70b571bc307da3",
+					"name": "[ext33] PMMC: Charge File",
+					"idShort": 145,
+					"shortLink": "YXTOW4nx"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:20.345Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e958e975a9a8575d992d7",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dd54a5ebbcbd72d37c98258",
+					"name": "[ext34] PMMC: Patient Supplemental File",
+					"idShort": 144,
+					"shortLink": "0TLOyf7C"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:14.323Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e95888d90ea61b46ff23f",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dd54a5e5376f3704af4074a",
+					"name": "[ext32] PMMC: Patient File",
+					"idShort": 143,
+					"shortLink": "lUNSkOgQ"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:08.231Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e9580f92c9864cee95874",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5dd57a0b10969c47f6f55584",
+					"name": "PMMC",
+					"idShort": 142,
+					"shortLink": "2p1MFTWu"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"boardSource": {
+					"id": "5d5161793dd63b2b4e5fd18e"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bab",
+					"name": "Matt Orem"
+				}
+			},
+			"type": "moveCardToBoard",
+			"date": "2020-09-01T18:40:00.004Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e70435adb4f6d4aebc8e3",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"old": {
+					"dueComplete": false
+				},
+				"card": {
+					"dueComplete": true,
+					"id": "5f1ef4d5262fd588c5be1f90",
+					"name": "[amb59] Ambulatory Medication Administration Charge Reconciliation",
+					"idShort": 140,
+					"shortLink": "to1vD4DE"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bad",
+					"name": "Naser Sanjar"
+				}
+			},
+			"type": "updateCard",
+			"date": "2020-09-01T16:01:07.132Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f4e7042a21a565808a06c65",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"old": {
+					"due": "2020-09-01T12:56:00.000Z"
+				},
+				"card": {
+					"due": "2020-08-27T12:56:00.000Z",
+					"id": "5f1ef4d5262fd588c5be1f90",
+					"name": "[amb59] Ambulatory Medication Administration Charge Reconciliation",
+					"idShort": 140,
+					"shortLink": "to1vD4DE"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5e9c026aba7243d0f90bad",
+					"name": "Naser Sanjar"
+				}
+			},
+			"type": "updateCard",
+			"date": "2020-09-01T16:01:06.085Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
 		{
 			"id": "5f47feb16bc2aa7b7de947ff",
 			"idMemberCreator": "5d136f449fee6b774291d8e3",
@@ -3899,7 +4369,7 @@
 					"desc": ""
 				},
 				"card": {
-					"desc": "DA2 Report Alias: Action OI Report\nCCL Program Name: 1_REV_ACTION_OI\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
+					"desc": "DA2 Report Alias: Action OI Report\nCCL Program Name: 1_REV_ACTION_OI\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
 					"id": "5d5d60282af8981a9c39fb3a",
 					"name": "[cs80] Action OI Report",
 					"idShort": 133,
@@ -4520,6 +4990,81 @@
 			}
 		},
 		{
+			"id": "5f1861bdb4747472a5afa210",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"attachment": {
+					"id": "5f1861bdb4747472a5afa20f",
+					"name": "https://trello.com/c/CMAwxCpW/367-ext54-pmmc-medical-service-master",
+					"url": "https://trello.com/c/CMAwxCpW/367-ext54-pmmc-medical-service-master"
+				},
+				"card": {
+					"id": "5dd57a0b10969c47f6f55584",
+					"name": "PMMC",
+					"idShort": 265,
+					"shortLink": "2p1MFTWu"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5d60793ebb20181f637b1f"
+				}
+			},
+			"type": "addAttachmentToCard",
+			"date": "2020-07-22T15:56:45.567Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f1861380743af3d1950ae3d",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5f1861380743af3d1950ae3c",
+					"name": "[ext54] PMMC: Medical Service Master",
+					"idShort": 367,
+					"shortLink": "CMAwxCpW"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5d60793ebb20181f637b1f"
+				}
+			},
+			"type": "createCard",
+			"date": "2020-07-22T15:54:32.882Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
 			"id": "5f185f980f087622bb2a7f92",
 			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
 			"data": {
@@ -4858,7 +5403,7 @@
 			"id": "5f11fdac34ca201932718364",
 			"idMemberCreator": "5d136f449fee6b774291d8e3",
 			"data": {
-				"text": "Validated \n\n--- Originally sent by timothy.allman@changehealthcare.com on Jul 17, 2020 2:29 PM ---\n\nYes, I think you nailed it.\n\nThe need to have the division and then narrow it down by either CPT/HCPCS and then down by individual provider and that appears to be available.  I will just have to validate the data behind it but what I see I will say appears to meet the need.\n\nThanks for your hard work on this.\n\nTim\n\nFrom: Derek Buchheit <Derek.Buchheit@chhi.org>\nSent: Friday, July 17, 2020 3:20 PM\nTo: Allman, Timothy <timothy.allman@changehealthcare.com>\nCc: Matthew Orem <Matthew.Orem@chhi.org>; Houdek,Jaime <Jaime.Houdek@Cerner.com>; Klinkhardt,David <David.Klinkhardt@cerner.com>\nSubject: (External Email) RE: [patacct122][patacct169][patacct178][patacct183][patacct163] WRVU Reports\n\n\nCompleted at last and made the corrections on the RVU reports below. We have a number a RVU reports available, but the 2 main ones I’d recommend are:\n\nRVU by Facility, Provider, CPT/HCPCS\nRVU Charge and Payment by Facility, Provider, CPT/HCPCS\n\n\nExamples of those 2 are attached. Will these 2 reports work? Any changes needed?\n\n\nFor reference, here the are the other RVU reports. I indicated the specific report that looked like the closest match in the spreadsheet below under Report Name. Most of the time it’s one of the 2 mentioned above.\n",
+				"text": "Validated \n\n--- Originally sent by timothy.allman@changehealthcare.com on Jul 17, 2020 2:29 PM ---\n\nYes, I think you nailed it.\n\nThe need to have the division and then narrow it down by either CPT/HCPCS and then down by individual provider and that appears to be available.  I will just have to validate the data behind it but what I see I will say appears to meet the need.\n\nThanks for your hard work on this.\n\nTim\n\nFrom: Derek Buchheit <Derek.Buchheit@chhi.org>\nSent: Friday, July 17, 2020 3:20 PM\nTo: Allman, Timothy <timothy.allman@changehealthcare.com>\nCc: Matthew Orem <Matthew.Orem@chhi.org>; Houdek,Jaime <Jaime.Houdek@Cerner.com>; Klinkhardt,David <David.Klinkhardt@cerner.com>\nSubject: (External Email) RE: [patacct122][patacct169][patacct178][patacct183][patacct163] WRVU Reports\n\n\nCompleted at last and made the corrections on the RVU reports below. We have a number a RVU reports available, but the 2 main ones I’d recommend are:\n\nRVU by Facility, Provider, CPT/HCPCS\nRVU Charge and Payment by Facility, Provider, CPT/HCPCS\n\n\nExamples of those 2 are attached. Will these 2 reports work? Any changes needed?\n\n\nFor reference, here the are the other RVU reports. I indicated the specific report that looked like the closest match in the spreadsheet below under Report Name. Most of the time it’s one of the 2 mentioned above.\n",
 				"dateLastEdited": "2020-07-17T19:37:33.463Z",
 				"card": {
 					"id": "5d5d604b95dac34405e1c433",
@@ -4912,7 +5457,7 @@
 			"id": "5f11fda280d31250fa35c7df",
 			"idMemberCreator": "5d136f449fee6b774291d8e3",
 			"data": {
-				"text": "Validated. \n\n--- Originally sent by timothy.allman@changehealthcare.com on Jul 17, 2020 2:29 PM ---\n\nYes, I think you nailed it.\n\nThe need to have the division and then narrow it down by either CPT/HCPCS and then down by individual provider and that appears to be available.  I will just have to validate the data behind it but what I see I will say appears to meet the need.\n\nThanks for your hard work on this.\n\nTim\n\nFrom: Derek Buchheit <Derek.Buchheit@chhi.org>\nSent: Friday, July 17, 2020 3:20 PM\nTo: Allman, Timothy <timothy.allman@changehealthcare.com>\nCc: Matthew Orem <Matthew.Orem@chhi.org>; Houdek,Jaime <Jaime.Houdek@Cerner.com>; Klinkhardt,David <David.Klinkhardt@cerner.com>\nSubject: (External Email) RE: [patacct122][patacct169][patacct178][patacct183][patacct163] WRVU Reports\n\n\nCompleted at last and made the corrections on the RVU reports below. We have a number a RVU reports available, but the 2 main ones I’d recommend are:\n\nRVU by Facility, Provider, CPT/HCPCS\nRVU Charge and Payment by Facility, Provider, CPT/HCPCS\n\n\nExamples of those 2 are attached. Will these 2 reports work? Any changes needed?\n\n\nFor reference, here the are the other RVU reports. I indicated the specific report that looked like the closest match in the spreadsheet below under Report Name. Most of the time it’s one of the 2 mentioned above.\n",
+				"text": "Validated. \n\n--- Originally sent by timothy.allman@changehealthcare.com on Jul 17, 2020 2:29 PM ---\n\nYes, I think you nailed it.\n\nThe need to have the division and then narrow it down by either CPT/HCPCS and then down by individual provider and that appears to be available.  I will just have to validate the data behind it but what I see I will say appears to meet the need.\n\nThanks for your hard work on this.\n\nTim\n\nFrom: Derek Buchheit <Derek.Buchheit@chhi.org>\nSent: Friday, July 17, 2020 3:20 PM\nTo: Allman, Timothy <timothy.allman@changehealthcare.com>\nCc: Matthew Orem <Matthew.Orem@chhi.org>; Houdek,Jaime <Jaime.Houdek@Cerner.com>; Klinkhardt,David <David.Klinkhardt@cerner.com>\nSubject: (External Email) RE: [patacct122][patacct169][patacct178][patacct183][patacct163] WRVU Reports\n\n\nCompleted at last and made the corrections on the RVU reports below. We have a number a RVU reports available, but the 2 main ones I’d recommend are:\n\nRVU by Facility, Provider, CPT/HCPCS\nRVU Charge and Payment by Facility, Provider, CPT/HCPCS\n\n\nExamples of those 2 are attached. Will these 2 reports work? Any changes needed?\n\n\nFor reference, here the are the other RVU reports. I indicated the specific report that looked like the closest match in the spreadsheet below under Report Name. Most of the time it’s one of the 2 mentioned above.\n",
 				"dateLastEdited": "2020-07-17T19:37:17.347Z",
 				"card": {
 					"id": "5d5d604b42d1cd0173ef559e",
@@ -6738,6 +7283,105 @@
 				"fullName": "Aaron Knight",
 				"idMemberReferrer": null,
 				"initials": "AK",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f05c2f0efc0220d55c4b35a",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"idMember": "5ca4f9fa2fbe0e25c243a714",
+				"deactivated": false,
+				"member": {
+					"id": "5ca4f9fa2fbe0e25c243a714",
+					"name": "Matt Orem"
+				},
+				"card": {
+					"id": "5ec2ff13440d8f4cc11a29c9",
+					"name": "[him33] Patient Stats by Nursing Unit",
+					"idShort": 332,
+					"shortLink": "FiZZxHu4"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				}
+			},
+			"type": "removeMemberFromCard",
+			"date": "2020-07-08T12:58:24.709Z",
+			"limits": {},
+			"member": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5f05c2eb11579581bfb59d78",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"idMember": "5ca4f9fa2fbe0e25c243a714",
+				"member": {
+					"id": "5ca4f9fa2fbe0e25c243a714",
+					"name": "Matt Orem"
+				},
+				"card": {
+					"id": "5ec2ff13440d8f4cc11a29c9",
+					"name": "[him33] Patient Stats by Nursing Unit",
+					"idShort": 332,
+					"shortLink": "FiZZxHu4"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				}
+			},
+			"type": "addMemberToCard",
+			"date": "2020-07-08T12:58:19.225Z",
+			"limits": {},
+			"member": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
 				"nonPublic": {},
 				"nonPublicAvailable": false
 			}
@@ -15098,10 +15742,10 @@
 			"idMemberCreator": "5de5305570fb216ebfc8ed00",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Revenue/Usage by CDM/Revenue Code\nCCL Program Name: 1_REV_SUM_BY_CDM_AND_REV_CD\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60"
+					"desc": "DA2 Report Alias: Revenue/Usage by CDM/Revenue Code\nCCL Program Name: 1_REV_SUM_BY_CDM_AND_REV_CD\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60"
 				},
 				"card": {
-					"desc": "DA2 Report Alias: Revenue/Usage by CDM/Revenue Code\nCCL Program Name: 1_REV_SUM_BY_CDM_AND_REV_CD\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  80",
+					"desc": "DA2 Report Alias: Revenue/Usage by CDM/Revenue Code\nCCL Program Name: 1_REV_SUM_BY_CDM_AND_REV_CD\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  80",
 					"id": "5d5d60291104636a7e30d414",
 					"name": "[cs71] Revenue and Usage by CDM/Department/Provider",
 					"idShort": 53,
@@ -15138,7 +15782,7 @@
 			"idMemberCreator": "5de5305570fb216ebfc8ed00",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Senior Wise Report\nCCL Program Name: 1_cm_senior_wise\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
+					"desc": "DA2 Report Alias: Senior Wise Report\nCCL Program Name: 1_cm_senior_wise\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
 				},
 				"card": {
 					"id": "5ea1ee41e32a9502ae84faf4",
@@ -15176,7 +15820,7 @@
 			"idMemberCreator": "5de5305570fb216ebfc8ed00",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Utilization Review Safety\nCCL Program Name: 1_cm_utilization_review\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
+					"desc": "DA2 Report Alias: Utilization Review Safety\nCCL Program Name: 1_cm_utilization_review\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
 				},
 				"card": {
 					"id": "5ea1ee839550ba03b18d2cde",
@@ -17051,6 +17695,79 @@
 					}
 				}
 			},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5ec2ff333776455602590c5f",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"old": {
+					"name": "[him33]"
+				},
+				"card": {
+					"id": "5ec2ff13440d8f4cc11a29c9",
+					"name": "[him33] Patient Stats by Nursing Unit",
+					"idShort": 332,
+					"shortLink": "FiZZxHu4"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5d60793ebb20181f637b1f"
+				}
+			},
+			"type": "updateCard",
+			"date": "2020-05-18T21:33:39.461Z",
+			"limits": {},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5ec2ff13440d8f4cc11a29ca",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"card": {
+					"id": "5ec2ff13440d8f4cc11a29c9",
+					"name": "[him33]",
+					"idShort": 332,
+					"shortLink": "FiZZxHu4"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5d60793ebb20181f637b1f"
+				}
+			},
+			"type": "createCard",
+			"date": "2020-05-18T21:33:07.944Z",
+			"limits": {},
 			"memberCreator": {
 				"id": "5ca4f9fa2fbe0e25c243a714",
 				"username": "mattorem",
@@ -23619,6 +24336,56 @@
 				"initials": "NS",
 				"nonPublic": {},
 				"nonPublicAvailable": false
+			},
+			"memberCreator": {
+				"id": "5ca4f9fa2fbe0e25c243a714",
+				"username": "mattorem",
+				"activityBlocked": false,
+				"avatarHash": null,
+				"avatarUrl": null,
+				"fullName": "Matt Orem",
+				"idMemberReferrer": null,
+				"initials": "Mo",
+				"nonPublic": {},
+				"nonPublicAvailable": false
+			}
+		},
+		{
+			"id": "5e9a0b3bb1df3e53321ce6e3",
+			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
+			"data": {
+				"text": "Sent 8 of the 13 extracts to Brandan today, as well as numerous details of each:\n[ext38] Charge Code Master File\n[ext44] Cost Service Centers File\n[ext41] Employer Master File\n[ext40] Financial Class File\n[ext42] Patient Type File\n[ext37] Payer Master File\n[ext43] Physician Master File\n[ext39] Posting Codes Master File",
+				"dateLastEdited": "2020-04-17T20:04:26.399Z",
+				"card": {
+					"id": "5dd57a0b10969c47f6f55584",
+					"name": "PMMC",
+					"idShort": 265,
+					"shortLink": "2p1MFTWu"
+				},
+				"board": {
+					"id": "5d5e9c026aba7243d0f90ba8",
+					"name": "JUMP - Reporting (Complete)",
+					"shortLink": "ExM7la3B"
+				},
+				"list": {
+					"id": "5d5d60793ebb20181f637b1f"
+				}
+			},
+			"type": "commentCard",
+			"date": "2020-04-17T20:02:03.174Z",
+			"limits": {
+				"reactions": {
+					"perAction": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					},
+					"uniquePerAction": {
+						"status": "ok",
+						"disableAt": 17,
+						"warnAt": 16
+					}
+				}
 			},
 			"memberCreator": {
 				"id": "5ca4f9fa2fbe0e25c243a714",
@@ -33692,7 +34459,7 @@
 			"idMemberCreator": "5de5305570fb216ebfc8ed00",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Revenue/Usage by Financial Class and Service Date\nCCL Program Name: 1_REV_SUM_BY_FIN_CLASS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60"
+					"desc": "DA2 Report Alias: Revenue/Usage by Financial Class and Service Date\nCCL Program Name: 1_REV_SUM_BY_FIN_CLASS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60"
 				},
 				"card": {
 					"id": "5d5d60291104636a7e30d414",
@@ -33953,7 +34720,7 @@
 			"idMemberCreator": "5de5305570fb216ebfc8ed00",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Revenue/Usage Summary by FIN Class\nCCL Program Name: 1_REV_SUM_BY_FIN_CLASS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60"
+					"desc": "DA2 Report Alias: Revenue/Usage Summary by FIN Class\nCCL Program Name: 1_REV_SUM_BY_FIN_CLASS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60"
 				},
 				"card": {
 					"id": "5d5d602805efd7442fdc9329",
@@ -36161,10 +36928,10 @@
 			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_QUAL_DISCH_DISPO\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
+					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_QUAL_DISCH_DISPO\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
 				},
 				"card": {
-					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_qual_disch_dispo\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40",
+					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_qual_disch_dispo\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40",
 					"id": "5d5d602d44492c21bb363f5e",
 					"name": "[med4] Discharged Cases by discharge code",
 					"idShort": 43,
@@ -36201,10 +36968,10 @@
 			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
 			"data": {
 				"old": {
-					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_HIM_PAT_UNDER_6_YEARS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50"
+					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_HIM_PAT_UNDER_6_YEARS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50"
 				},
 				"card": {
-					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_him_pat_under_6_years\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
+					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_him_pat_under_6_years\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
 					"id": "5d5d604d3d4415460635cca6",
 					"name": "[him34] Health and Human Resources Maternal Child Health Extract",
 					"idShort": 41,
@@ -37185,7 +37952,7 @@
 					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_QUAL_DISCH_DISPO\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nwhen scheduled from Ops, we need to use the variable CURDATE to adjust the date range.\nRun adhoc?: Yes\nEstimated Hours to Build:  40"
 				},
 				"card": {
-					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_QUAL_DISCH_DISPO\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40",
+					"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_QUAL_DISCH_DISPO\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40",
 					"id": "5d5d602d44492c21bb363f5e",
 					"name": "[med4] Discharged Cases by discharge code",
 					"idShort": 43,
@@ -37225,7 +37992,7 @@
 					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_HIM_PAT_UNDER_6_YEARS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nWhen scheduled from Ops, we need to use the variable CURDATE to adjust the date range.\nExample: 1_HIM_PAT_UNDER_6_YEARS \"NL:\", format (curdate -1, \"DD-MMM-YYYY;;d\"), format(curdate, \"DD-MMM-YYYY;;d\")\nRun adhoc?: Yes\nEstimated Hours to Build:  50"
 				},
 				"card": {
-					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_HIM_PAT_UNDER_6_YEARS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
+					"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_HIM_PAT_UNDER_6_YEARS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
 					"id": "5d5d604d3d4415460635cca6",
 					"name": "[him34] Health and Human Resources Maternal Child Health Extract",
 					"idShort": 41,
@@ -43781,824 +44548,6 @@
 				"nonPublic": {},
 				"nonPublicAvailable": false
 			}
-		},
-		{
-			"id": "5e3d8f9aef6c036f5f9fa3fe",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"name": "[cs71]"
-				},
-				"card": {
-					"id": "5d5d60291104636a7e30d414",
-					"name": "[cs71] Revenue/Usage by CDM/Revenue Code",
-					"idShort": 47,
-					"shortLink": "Egr6GS1A"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d5fe5a228883af55c521c"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:26:02.653Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8f4df1d4c8017e807dec",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"text": "First check if bill item audit or similar standard report will work for contact.",
-				"card": {
-					"id": "5d5d60280b90705c21577d82",
-					"name": "[cs65] Charge Master by Department/CDM Description",
-					"idShort": 35,
-					"shortLink": "Sbnrn5la"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d5fe5a228883af55c521c"
-				}
-			},
-			"type": "commentCard",
-			"date": "2020-02-07T16:24:45.632Z",
-			"limits": {
-				"reactions": {
-					"perAction": {
-						"status": "ok",
-						"disableAt": 1000,
-						"warnAt": 900
-					},
-					"uniquePerAction": {
-						"status": "ok",
-						"disableAt": 17,
-						"warnAt": 16
-					}
-				}
-			},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e86c5eaa9618a7892ca",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"name": "[cs65]"
-				},
-				"card": {
-					"id": "5d5d60280b90705c21577d82",
-					"name": "[cs65] Charge Master by Department/CDM Description",
-					"idShort": 35,
-					"shortLink": "Sbnrn5la"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d5fe5a228883af55c521c"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:21:26.292Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1c52839c6d7e253f70",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 65536
-				},
-				"card": {
-					"pos": 223914.66666666666,
-					"id": "5d5d604aedbca05cc6833a7d",
-					"name": "[patacct71] Adjustment Summaries/Details",
-					"idShort": 15,
-					"shortLink": "I5SANihX"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:40.323Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1c30309b8c0d0303b9",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 81920
-				},
-				"card": {
-					"pos": 237568,
-					"id": "5d5d6049b4c9303172af0f7b",
-					"name": "[patacct1] Edit Failures",
-					"idShort": 16,
-					"shortLink": "Tlu0d1Fi"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:40.317Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1c8ab8604a1dc22078",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 114688
-				},
-				"card": {
-					"pos": 294912,
-					"id": "5d5d602fce0a786c136b68e2",
-					"name": "[med6][med8] Midnight Census by Encounter Class",
-					"idShort": 18,
-					"shortLink": "pD8Ls4sM"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:40.095Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1cf28e41618090ddf0",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 163840
-				},
-				"card": {
-					"pos": 262144,
-					"id": "5d5d60487cf7023919764313",
-					"name": "[path49] AP Specimen Labels",
-					"idShort": 13,
-					"shortLink": "NUevyqlG"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:40.092Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1c7218845bd39d96ab",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 49152
-				},
-				"card": {
-					"pos": 278528,
-					"id": "5d5d60486ca9af58419cb936",
-					"name": "[path50] AP Cytology Slide Labels",
-					"idShort": 14,
-					"shortLink": "TkDClsYc"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:40.092Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1b47ea026929017e7f",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 131072
-				},
-				"card": {
-					"pos": 172032,
-					"id": "5d5d694701fbf1738b446444",
-					"name": "[amb15] Ambulatory Clinic Lab Specimen Labels",
-					"idShort": 21,
-					"shortLink": "N3x9Ebni"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:39.458Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1bcf2a966608788340",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 180224
-				},
-				"card": {
-					"pos": 218453.33333333334,
-					"id": "5d5d604c01fbf1738b420c1c",
-					"name": "[patacct185] Days in AR by Facility and then by Physician (custom)",
-					"idShort": 31,
-					"shortLink": "I4kF524A"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:39.454Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1ba13b8d4d531f877e",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 262144
-				},
-				"card": {
-					"pos": 73728,
-					"id": "5d9b4b685399366a4be9ca00",
-					"name": "[patacct16][patacct17][patacct18] Adjustment Summary (Custom)",
-					"idShort": 38,
-					"shortLink": "Uj5UhCef"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:39.278Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1b42cdd00df3c2c15b",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 16384
-				},
-				"card": {
-					"pos": 122880,
-					"id": "5d5efed094dbbb38426314f2",
-					"name": "[10914] Vaccine Administration Fee Rule",
-					"idShort": 4,
-					"shortLink": "miVyizim"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:39.258Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3d8e1b01b55b514b7f0c11",
-			"idMemberCreator": "5ca4f9fa2fbe0e25c243a714",
-			"data": {
-				"old": {
-					"pos": 278528
-				},
-				"card": {
-					"pos": 32768,
-					"id": "5e2afc6361c5bc521d86bbe4",
-					"name": "[12076][12090] Auto-Verify Audit",
-					"idShort": 39,
-					"shortLink": "CTBok7hb"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-07T16:19:39.246Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5ca4f9fa2fbe0e25c243a714",
-				"username": "mattorem",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Matt Orem",
-				"idMemberReferrer": null,
-				"initials": "Mo",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
-		},
-		{
-			"id": "5e3c7c9581f33d3c5f45f151",
-			"idMemberCreator": "5d136f449fee6b774291d8e3",
-			"data": {
-				"old": {
-					"desc": ""
-				},
-				"card": {
-					"id": "5dfb9b236a13e772bb0ea01a",
-					"name": "[ext46] Champion: CEO Thank You Letter",
-					"idShort": 268,
-					"shortLink": "VIuxlmhL"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d607f6133684ef3ba3e67"
-				}
-			},
-			"type": "updateCard",
-			"date": "2020-02-06T20:52:37.987Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5d136f449fee6b774291d8e3",
-				"username": "derekbuchheit",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "dsbuchh",
-				"idMemberReferrer": null,
-				"initials": "D",
-				"nonPublic": {
-					"fullName": "Derek Buchheit",
-					"initials": "DB",
-					"avatarHash": null
-				},
-				"nonPublicAvailable": true
-			}
-		},
-		{
-			"id": "5e3c7bfd49709f88ebc8992b",
-			"idMemberCreator": "5d136f449fee6b774291d8e3",
-			"data": {
-				"card": {
-					"id": "5e2afc6361c5bc521d86bbe4",
-					"name": "[12076][12090] Auto-Verify Audit",
-					"idShort": 39,
-					"shortLink": "CTBok7hb"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"boardSource": {
-					"id": "5d5161793dd63b2b4e5fd18e"
-				},
-				"list": {
-					"id": "5d5e9c026aba7243d0f90bac",
-					"name": "Derek Buchheit"
-				}
-			},
-			"type": "moveCardToBoard",
-			"date": "2020-02-06T20:50:05.012Z",
-			"limits": {},
-			"memberCreator": {
-				"id": "5d136f449fee6b774291d8e3",
-				"username": "derekbuchheit",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "dsbuchh",
-				"idMemberReferrer": null,
-				"initials": "D",
-				"nonPublic": {
-					"fullName": "Derek Buchheit",
-					"initials": "DB",
-					"avatarHash": null
-				},
-				"nonPublicAvailable": true
-			}
-		},
-		{
-			"id": "5e3c7beb2ea05345bff82bb5",
-			"idMemberCreator": "5d136f449fee6b774291d8e3",
-			"data": {
-				"text": "Moving to completed board. ED Pharmacists are using report info to design future state. \n\nFrom: Kristina Stemple <Kristina.Stemple@chhi.org> \nSent: Thursday, February 6, 2020 2:32 PM\nTo: Derek Buchheit <Derek.Buchheit@chhi.org>\nCc: Amy Schultz <Amy.Schultz@chhi.org>; Steven Carter <Steven.Carter@chhi.org>; Matthew Orem <Matthew.Orem@chhi.org>\nSubject: RE: [12076][12090] AutoVerify Audit\n\nYes thank you so much Derek!\n\nFrom: Steven Carter <Steven.Carter@chhi.org> \nSent: Thursday, February 6, 2020 2:00 PM\nTo: Derek Buchheit <Derek.Buchheit@chhi.org>\nSubject: RE: [12076][12090] AutoVerify Audit\n\nThanks Derek.  It did go through, our ED Pharmacists are working through the data now to come up with their ideal future state.\n\n\nSteve Carter, Pharm.D., BCPS\n340B Apexus Certified Expert ™\nAssistant Director, Pharmacy\nCabell-Huntington Hospital\n",
-				"card": {
-					"id": "5e2afc6361c5bc521d86bbe4",
-					"name": "[12076][12090] Auto-Verify Audit",
-					"idShort": 272,
-					"shortLink": "CTBok7hb"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d607f6133684ef3ba3e67"
-				}
-			},
-			"type": "commentCard",
-			"date": "2020-02-06T20:49:47.955Z",
-			"memberCreator": {
-				"id": "5d136f449fee6b774291d8e3",
-				"username": "derekbuchheit",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "dsbuchh",
-				"idMemberReferrer": null,
-				"initials": "D",
-				"nonPublic": {
-					"fullName": "Derek Buchheit",
-					"initials": "DB",
-					"avatarHash": null
-				},
-				"nonPublicAvailable": true
-			},
-			"limits": {
-				"reactions": {
-					"perAction": {
-						"status": "ok",
-						"disableAt": 1000,
-						"warnAt": 900
-					},
-					"uniquePerAction": {
-						"status": "ok",
-						"disableAt": 17,
-						"warnAt": 16
-					}
-				}
-			}
-		},
-		{
-			"id": "5e3c6ff07023ce0e750be5cc",
-			"idMemberCreator": "5d136f449fee6b774291d8e3",
-			"data": {
-				"text": "Followup email sent with instructions on running report",
-				"card": {
-					"id": "5e2afc6361c5bc521d86bbe4",
-					"name": "[12076][12090] Auto-Verify Audit",
-					"idShort": 272,
-					"shortLink": "CTBok7hb"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d607f6133684ef3ba3e67"
-				}
-			},
-			"type": "commentCard",
-			"date": "2020-02-06T19:58:40.708Z",
-			"memberCreator": {
-				"id": "5d136f449fee6b774291d8e3",
-				"username": "derekbuchheit",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "dsbuchh",
-				"idMemberReferrer": null,
-				"initials": "D",
-				"nonPublic": {
-					"fullName": "Derek Buchheit",
-					"initials": "DB",
-					"avatarHash": null
-				},
-				"nonPublicAvailable": true
-			},
-			"limits": {
-				"reactions": {
-					"perAction": {
-						"status": "ok",
-						"disableAt": 1000,
-						"warnAt": 900
-					},
-					"uniquePerAction": {
-						"status": "ok",
-						"disableAt": 17,
-						"warnAt": 16
-					}
-				}
-			}
-		},
-		{
-			"id": "5e3aeda7f687e02815e3b8ca",
-			"idMemberCreator": "5d136f449fee6b774291d8e3",
-			"data": {
-				"text": "Updates made\n\nFrom: Derek Buchheit \nSent: Wednesday, February 5, 2020 10:30 AM\nTo: Jennifer Hosey <Jennifer.Hosey@chhi.org>\nCc: Matthew Orem <Matthew.Orem@chhi.org>; Taylor Gwinn <Taylor.Gwinn@chhi.org>\nSubject: RE: [ext46] Champion: CEO Thank You Letter : CONFIDENTIAL\n\nOkay we're getting close. I made some changes from below and pushed the draft of the report to DA2 -> Patient Accounting -> Follow-up and Collections -> Champion Thank You Letter Extract\n\nHere's what is left:\n1)\tShould newborn children be included? (from below)\n2)\tExcluded MRN's - How do you track which patients have asked to be excluded? Is it documented in the chart or EHR somewhere? I can exclude patients but need to know where this info lives in the EHR to query.  \n3)\tAttached is an output sample from B0004. Is it possible for the champion side to validate this file will work? There are a few anomalies in the existing Affinity file and need to be sure the cerner format works\n-\tAffinity file has extra line break on the top line for some reason\n-\tAffinity puts a Form Feed on the same line as third insurance. In cerner form feeds must go on an empty line. (See Account Number: 17027384)\n4)\tFor distribution, we can schedule this in an automatic job that handles the extract / sftp or just run the report manually. There are a few steps to setup once we determine which way we are going. \n",
-				"card": {
-					"id": "5dfb9b236a13e772bb0ea01a",
-					"name": "[ext46] Champion: CEO Thank You Letter",
-					"idShort": 268,
-					"shortLink": "VIuxlmhL"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d607f6133684ef3ba3e67"
-				}
-			},
-			"type": "commentCard",
-			"date": "2020-02-05T16:30:31.056Z",
-			"memberCreator": {
-				"id": "5d136f449fee6b774291d8e3",
-				"username": "derekbuchheit",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "dsbuchh",
-				"idMemberReferrer": null,
-				"initials": "D",
-				"nonPublic": {
-					"fullName": "Derek Buchheit",
-					"initials": "DB",
-					"avatarHash": null
-				},
-				"nonPublicAvailable": true
-			},
-			"limits": {
-				"reactions": {
-					"perAction": {
-						"status": "ok",
-						"disableAt": 1000,
-						"warnAt": 900
-					},
-					"uniquePerAction": {
-						"status": "ok",
-						"disableAt": 17,
-						"warnAt": 16
-					}
-				}
-			}
-		},
-		{
-			"id": "5e3ae32b6def972ba19fac01",
-			"idMemberCreator": "5d63de5821e69d0160191621",
-			"data": {
-				"text": "I set the report up to display output to the screen. I then sent an email to Jennifer informing her it is ready for validation.",
-				"card": {
-					"id": "5d5d6049bc8d914c09782514",
-					"name": "[patacct34]Charges and Adjustments Per Encounter",
-					"idShort": 116,
-					"shortLink": "aq2mYaPo"
-				},
-				"board": {
-					"id": "5d5e9c026aba7243d0f90ba8",
-					"name": "JUMP - Reporting (Complete)",
-					"shortLink": "ExM7la3B"
-				},
-				"list": {
-					"id": "5d5d75ae7ec48977b3a18fba"
-				}
-			},
-			"type": "commentCard",
-			"date": "2020-02-05T15:45:47.194Z",
-			"limits": {
-				"reactions": {
-					"perAction": {
-						"status": "ok",
-						"disableAt": 1000,
-						"warnAt": 900
-					},
-					"uniquePerAction": {
-						"status": "ok",
-						"disableAt": 17,
-						"warnAt": 16
-					}
-				}
-			},
-			"memberCreator": {
-				"id": "5d63de5821e69d0160191621",
-				"username": "aaronknight19",
-				"activityBlocked": false,
-				"avatarHash": null,
-				"avatarUrl": null,
-				"fullName": "Aaron Knight",
-				"idMemberReferrer": null,
-				"initials": "AK",
-				"nonPublic": {},
-				"nonPublicAvailable": false
-			}
 		}
 	],
 	"cards": [
@@ -46891,6 +46840,1247 @@
 			"start": null,
 			"subscribed": false,
 			"url": "https://trello.com/c/tstuaQi6/128-ext48-sentry340b-providers",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dd57a0b10969c47f6f55584",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:00.458Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 142,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "PMMC",
+			"pos": 442368,
+			"shortLink": "2p1MFTWu",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 14
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 2,
+				"attachments": 14,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2tcvlw1fjzopqxjll6s+169spxwjq5@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/2p1MFTWu",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/2p1MFTWu/142-pmmc",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:39:29.500Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/lUNSkOgQ/252-ext32-pmmc-patient-file",
+					"previews": [],
+					"url": "https://trello.com/c/lUNSkOgQ/252-ext32-pmmc-patient-file",
+					"pos": 16384,
+					"fileName": null,
+					"id": "5dd57a518d33ea752dffcb3f"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:39:38.553Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/YXTOW4nx/254-ext33-pmmc-charge-file",
+					"previews": [],
+					"url": "https://trello.com/c/YXTOW4nx/254-ext33-pmmc-charge-file",
+					"pos": 32768,
+					"fileName": null,
+					"id": "5dd57a5a66ab0e40b04e118b"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:39:47.557Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/0TLOyf7C/253-ext34-pmmc-patient-supplemental-file",
+					"previews": [],
+					"url": "https://trello.com/c/0TLOyf7C/253-ext34-pmmc-patient-supplemental-file",
+					"pos": 49152,
+					"fileName": null,
+					"id": "5dd57a637b249f0e92436c86"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:39:51.769Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/8oOhsIHe/258-ext35-pmmc-balance-file",
+					"previews": [],
+					"url": "https://trello.com/c/8oOhsIHe/258-ext35-pmmc-balance-file",
+					"pos": 65536,
+					"fileName": null,
+					"id": "5dd57a6746147e4849524fff"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:01.001Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/xQ5PDJo4/255-ext36-pmmc-payment-adjustments-file",
+					"previews": [],
+					"url": "https://trello.com/c/xQ5PDJo4/255-ext36-pmmc-payment-adjustments-file",
+					"pos": 81920,
+					"fileName": null,
+					"id": "5dd57a71e7ab1342a2ae27a6"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:07.680Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/1WvZkKCO/261-ext37-pmmc-payer-master-file",
+					"previews": [],
+					"url": "https://trello.com/c/1WvZkKCO/261-ext37-pmmc-payer-master-file",
+					"pos": 98304,
+					"fileName": null,
+					"id": "5dd57a77a78b39466c6db301"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:28.831Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/u4aaVKeY/256-ext38-pmmc-charge-code-master-file",
+					"previews": [],
+					"url": "https://trello.com/c/u4aaVKeY/256-ext38-pmmc-charge-code-master-file",
+					"pos": 114688,
+					"fileName": null,
+					"id": "5dd57a8c23fdd949182262e2"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:33.274Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/ns2IvpOl/257-ext39-pmmc-posting-codes-master-file",
+					"previews": [],
+					"url": "https://trello.com/c/ns2IvpOl/257-ext39-pmmc-posting-codes-master-file",
+					"pos": 131072,
+					"fileName": null,
+					"id": "5dd57a91dab51025a58004c1"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:40.677Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/4ULd3QeL/262-ext40-pmmc-financial-class-file",
+					"previews": [],
+					"url": "https://trello.com/c/4ULd3QeL/262-ext40-pmmc-financial-class-file",
+					"pos": 147456,
+					"fileName": null,
+					"id": "5dd57a989351ac5b3f0e0477"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:44.259Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/FD56RS93/259-ext41-pmmc-employer-master-file",
+					"previews": [],
+					"url": "https://trello.com/c/FD56RS93/259-ext41-pmmc-employer-master-file",
+					"pos": 163840,
+					"fileName": null,
+					"id": "5dd57a9cc68a1e828f0ef525"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:47.393Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/fAKaRPrU/260-ext42-pmmc-patient-type-file",
+					"previews": [],
+					"url": "https://trello.com/c/fAKaRPrU/260-ext42-pmmc-patient-type-file",
+					"pos": 180224,
+					"fileName": null,
+					"id": "5dd57a9f4592dd6a6d04a60e"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:51.961Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/W8OnvWdT/264-ext43-pmmc-physician-master-file",
+					"previews": [],
+					"url": "https://trello.com/c/W8OnvWdT/264-ext43-pmmc-physician-master-file",
+					"pos": 196608,
+					"fileName": null,
+					"id": "5dd57aa386ac015b43c0f29a"
+				},
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:40:56.599Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/4XHHLol7/263-ext44-pmmc-cost-service-centers-file",
+					"previews": [],
+					"url": "https://trello.com/c/4XHHLol7/263-ext44-pmmc-cost-service-centers-file",
+					"pos": 212992,
+					"fileName": null,
+					"id": "5dd57aa830264a36515f5db8"
+				},
+				{
+					"bytes": null,
+					"date": "2020-07-22T15:56:45.560Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/CMAwxCpW/367-ext54-pmmc-medical-service-master",
+					"previews": [],
+					"url": "https://trello.com/c/CMAwxCpW/367-ext54-pmmc-medical-service-master",
+					"pos": 229376,
+					"fileName": null,
+					"id": "5f1861bdb4747472a5afa20f"
+				}
+			],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dd54a5e5376f3704af4074a",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:08.414Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 143,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext32] PMMC: Patient File",
+			"pos": 458752,
+			"shortLink": "lUNSkOgQ",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 1
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 1,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2tcul87swxyjm4xg9xm+1f5zegz9we@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/lUNSkOgQ",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/lUNSkOgQ/143-ext32-pmmc-patient-file",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:41:34.507Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/2p1MFTWu",
+					"previews": [],
+					"url": "https://trello.com/c/2p1MFTWu",
+					"pos": 16384,
+					"fileName": null,
+					"id": "5dd57ace4d2d316f2a5638ed"
+				}
+			],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dd54a5ebbcbd72d37c98258",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:14.519Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 144,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext34] PMMC: Patient Supplemental File",
+			"pos": 475136,
+			"shortLink": "0TLOyf7C",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 1
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 1,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2tcul89e16219dyb7tk+21uyenlsgt@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/0TLOyf7C",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/0TLOyf7C/144-ext34-pmmc-patient-supplemental-file",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:41:30.349Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/2p1MFTWu",
+					"previews": [],
+					"url": "https://trello.com/c/2p1MFTWu",
+					"pos": 16384,
+					"fileName": null,
+					"id": "5dd57aca4b8b878ac2e3fdbf"
+				}
+			],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dd54a5f8c70b571bc307da3",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:20.532Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 145,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext33] PMMC: Charge File",
+			"pos": 491520,
+			"shortLink": "YXTOW4nx",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 1
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 1,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2tcul8ck98n0x288l9f+19aox0i3i8@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/YXTOW4nx",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/YXTOW4nx/145-ext33-pmmc-charge-file",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:41:32.500Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/2p1MFTWu",
+					"previews": [],
+					"url": "https://trello.com/c/2p1MFTWu",
+					"pos": 16384,
+					"fileName": null,
+					"id": "5dd57acc05353d0946b58546"
+				}
+			],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dd54a5f1101a587922286f8",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:29.971Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 146,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext35] PMMC: Balance File",
+			"pos": 507904,
+			"shortLink": "8oOhsIHe",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 1
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 1,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2tcul8aoojcrby79p88+0xoc9zhpel@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/8oOhsIHe",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/8oOhsIHe/146-ext35-pmmc-balance-file",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:41:26.843Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/2p1MFTWu",
+					"previews": [],
+					"url": "https://trello.com/c/2p1MFTWu",
+					"pos": 16384,
+					"fileName": null,
+					"id": "5dd57ac604b1f8587770347d"
+				}
+			],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dd54a5f19cee056f1b3eff4",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:37.066Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 147,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext36] PMMC: Payment Adjustments File",
+			"pos": 524288,
+			"shortLink": "xQ5PDJo4",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 1
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 1,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2tcul8ati07qu1jtgj8+0x0b8d0uqn@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/xQ5PDJo4",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/xQ5PDJo4/147-ext36-pmmc-payment-adjustments-file",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [
+				{
+					"bytes": null,
+					"date": "2019-11-20T17:41:25.054Z",
+					"edgeColor": null,
+					"idMember": "5ca4f9fa2fbe0e25c243a714",
+					"isUpload": false,
+					"mimeType": "",
+					"name": "https://trello.com/c/2p1MFTWu",
+					"previews": [],
+					"url": "https://trello.com/c/2p1MFTWu",
+					"pos": 16384,
+					"fileName": null,
+					"id": "5dd57ac5ff1f0c3e9d82f14d"
+				}
+			],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5f1861380743af3d1950ae3c",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:40:44.248Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [
+				"5daf4ffc1e82f02cbcf9ccc5"
+			],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 148,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext54] PMMC: Medical Service Master",
+			"pos": 540672,
+			"shortLink": "CMAwxCpW",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 0
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 0,
+				"description": false,
+				"due": "2020-07-21T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-21T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2upxdmmrx2943y6utdo+23kf9ez6um@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [],
+			"labels": [
+				{
+					"id": "5daf4ffc1e82f02cbcf9ccc5",
+					"idBoard": "5d5e9c026aba7243d0f90ba8",
+					"name": "Expedite",
+					"color": "pink"
+				}
+			],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/CMAwxCpW",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/CMAwxCpW/148-ext54-pmmc-medical-service-master",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5dc061087f8d4a04c5e2004f",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:44:04.164Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 149,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[ext31] CSC Coding Extract",
+			"pos": 557056,
+			"shortLink": "6CEFxImL",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 0
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 2,
+				"attachments": 0,
+				"description": false,
+				"due": "2020-06-10T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-06-10T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2t9o8j1towunytliqmn+1id6x51j19@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/6CEFxImL",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/6CEFxImL/149-ext31-csc-coding-extract",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5ec2ff13440d8f4cc11a29c9",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:46:40.125Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 150,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[him33] Patient Stats by Nursing Unit",
+			"pos": 573440,
+			"shortLink": "FiZZxHu4",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 0
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 0,
+				"description": false,
+				"due": "2020-07-16T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-07-16T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2ucygs3o1kknsm9xl1l+0ubcr1wgo5@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [],
+			"labels": [],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/FiZZxHu4",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/FiZZxHu4/150-him33-patient-stats-by-nursing-unit",
+			"cover": {
+				"idAttachment": null,
+				"color": null,
+				"idUploadedBackground": null,
+				"size": "normal",
+				"brightness": "light"
+			},
+			"attachments": [],
+			"pluginData": [],
+			"customFieldItems": []
+		},
+		{
+			"id": "5d5d670dd144df1b984c988f",
+			"address": null,
+			"checkItemStates": null,
+			"closed": false,
+			"coordinates": null,
+			"creationMethod": null,
+			"dateLastActivity": "2020-09-01T18:51:38.204Z",
+			"desc": "",
+			"descData": null,
+			"dueReminder": -1,
+			"idBoard": "5d5e9c026aba7243d0f90ba8",
+			"idLabels": [],
+			"idList": "5d5e9c026aba7243d0f90bab",
+			"idMembersVoted": [],
+			"idShort": 151,
+			"idAttachmentCover": null,
+			"locationName": null,
+			"manualCoverAttachment": false,
+			"name": "[onc72] Discharge Medication Order Analysis (OCM)",
+			"pos": 589824,
+			"shortLink": "8CjxejQ5",
+			"isTemplate": false,
+			"badges": {
+				"attachmentsByType": {
+					"trello": {
+						"board": 0,
+						"card": 0
+					}
+				},
+				"location": false,
+				"votes": 0,
+				"viewingMemberVoted": false,
+				"subscribed": false,
+				"fogbugz": "",
+				"checkItems": 0,
+				"checkItemsChecked": 0,
+				"checkItemsEarliestDue": null,
+				"comments": 0,
+				"attachments": 0,
+				"description": false,
+				"due": "2020-06-01T16:00:00.000Z",
+				"dueComplete": true,
+				"start": null
+			},
+			"dueComplete": true,
+			"due": "2020-06-01T16:00:00.000Z",
+			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2sumzp4av9torndi9an+0a8exumze4@boards.trello.com",
+			"idChecklists": [],
+			"idMembers": [
+				"5ca4f9fa2fbe0e25c243a714"
+			],
+			"labels": [],
+			"limits": {
+				"attachments": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 1000,
+						"warnAt": 900
+					}
+				},
+				"checklists": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 500,
+						"warnAt": 450
+					}
+				},
+				"stickers": {
+					"perCard": {
+						"status": "ok",
+						"disableAt": 70,
+						"warnAt": 63
+					}
+				}
+			},
+			"shortUrl": "https://trello.com/c/8CjxejQ5",
+			"start": null,
+			"subscribed": false,
+			"url": "https://trello.com/c/8CjxejQ5/151-onc72-discharge-medication-order-analysis-ocm",
 			"cover": {
 				"idAttachment": null,
 				"color": null,
@@ -54024,7 +55214,7 @@
 			"closed": false,
 			"coordinates": null,
 			"creationMethod": null,
-			"dateLastActivity": "2020-08-27T18:09:22.074Z",
+			"dateLastActivity": "2020-09-01T16:01:07.102Z",
 			"desc": "DA2 Report Alias: Ambulatory Medication Charge Reconciliation\nCCL Program Name: 1_amb_med_charge_recon\nBuilt With Application: DVDEV\nDistribution: \nRun adhoc? Yes\nEstimated Hours to Build: 32\n",
 			"descData": null,
 			"dueReminder": -1,
@@ -54058,12 +55248,12 @@
 				"comments": 0,
 				"attachments": 0,
 				"description": true,
-				"due": "2020-09-01T12:56:00.000Z",
-				"dueComplete": false,
+				"due": "2020-08-27T12:56:00.000Z",
+				"dueComplete": true,
 				"start": null
 			},
-			"dueComplete": false,
-			"due": "2020-09-01T12:56:00.000Z",
+			"dueComplete": true,
+			"due": "2020-08-27T12:56:00.000Z",
 			"email": "derekbuchheit+2sjei4tuwpyivhiv6jn+2uqxcbm82wyjhgqc8eo+0ccq2n306q@boards.trello.com",
 			"idChecklists": [],
 			"idMembers": [
@@ -56264,7 +57454,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-02-26T18:26:20.179Z",
-			"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_him_pat_under_6_years\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
+			"desc": "DA2 Report Alias: Dx Patients List for Patient < 6\nCCL Program Name: 1_him_pat_under_6_years\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
 			"descData": {
 				"emoji": {}
 			},
@@ -56448,7 +57638,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-08-07T15:12:02.031Z",
-			"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_qual_disch_dispo\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40",
+			"desc": "DA2 Report Alias: Discharge Disposition Report (Testing)\nCCL Program Name: 1_qual_disch_dispo\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  40",
 			"descData": {
 				"emoji": {}
 			},
@@ -56565,7 +57755,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-07-30T13:02:06.014Z",
-			"desc": "DA2 Report Alias: Discharges with Procedures\nCCL Program Name: 1_rev_disch_with_proc_v2\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
+			"desc": "DA2 Report Alias: Discharges with Procedures\nCCL Program Name: 1_rev_disch_with_proc_v2\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
 			"descData": null,
 			"dueReminder": -1,
 			"idBoard": "5d5e9c026aba7243d0f90ba8",
@@ -56773,7 +57963,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-05-26T23:21:16.522Z",
-			"desc": "DA2 Report Alias: Revenue/Usage by CDM/Revenue Code\nCCL Program Name: 1_REV_SUM_BY_CDM_AND_REV_CD\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  80",
+			"desc": "DA2 Report Alias: Revenue/Usage by CDM/Revenue Code\nCCL Program Name: 1_REV_SUM_BY_CDM_AND_REV_CD\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  80",
 			"descData": {
 				"emoji": {}
 			},
@@ -56875,7 +58065,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-05-21T15:22:25.268Z",
-			"desc": "DA2 Report Alias: Revenue/Usage by Financial Class and Service Date\nCCL Program Name: 1_REV_SUM_BY_FIN_CLASS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
+			"desc": "DA2 Report Alias: Revenue/Usage by Financial Class and Service Date\nCCL Program Name: 1_REV_SUM_BY_FIN_CLASS\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
 			"descData": null,
 			"dueReminder": -1,
 			"idBoard": "5d5e9c026aba7243d0f90ba8",
@@ -57190,7 +58380,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-05-08T22:47:16.182Z",
-			"desc": "DA2 Report Alias: CPT Usage by Financial Class\nCCL Program Name: 1_REV_SUM_BY_CPT\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
+			"desc": "DA2 Report Alias: CPT Usage by Financial Class\nCCL Program Name: 1_REV_SUM_BY_CPT\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
 			"descData": null,
 			"dueReminder": -1,
 			"idBoard": "5d5e9c026aba7243d0f90ba8",
@@ -57290,7 +58480,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-05-26T23:04:26.077Z",
-			"desc": "DA2 Report Alias: Top N Statistics\nCCL Program Name: 1_him_top_x_dx_proc_grp\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
+			"desc": "DA2 Report Alias: Top N Statistics\nCCL Program Name: 1_him_top_x_dx_proc_grp\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
 			"descData": null,
 			"dueReminder": -1,
 			"idBoard": "5d5e9c026aba7243d0f90ba8",
@@ -57390,7 +58580,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-06-07T22:05:04.738Z",
-			"desc": "DA2 Report Alias: Senior Wise Report\nCCL Program Name: 1_cm_senior_wise\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
+			"desc": "DA2 Report Alias: Senior Wise Report\nCCL Program Name: 1_cm_senior_wise\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
 			"descData": null,
 			"dueReminder": -1,
 			"idBoard": "5d5e9c026aba7243d0f90ba8",
@@ -57481,7 +58671,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-06-22T14:02:53.164Z",
-			"desc": "DA2 Report Alias: Utilization Review Safety\nCCL Program Name: 1_cm_utilization_review\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
+			"desc": "DA2 Report Alias: Utilization Review Safety\nCCL Program Name: 1_cm_utilization_review\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  50",
 			"descData": null,
 			"dueReminder": -1,
 			"idBoard": "5d5e9c026aba7243d0f90ba8",
@@ -57581,7 +58771,7 @@
 			"coordinates": null,
 			"creationMethod": null,
 			"dateLastActivity": "2020-07-24T16:11:52.382Z",
-			"desc": "DA2 Report Alias: Action OI Report\nCCL Program Name: 1_REV_ACTION_OI\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
+			"desc": "DA2 Report Alias: Action OI Report\nCCL Program Name: 1_REV_ACTION_OI\nBuilt With Application: DVDev. (CCL)\nDistribution: CCL | Reporting Portal | Ops\nSmart enough to recognize if it's scheduled in Olympus and will adjust the output format and the destination path accordingly.\nUses the standard date format sent by Matt Orem\nExample: program_name '', '1,D', '1,D'\nExample: program_name '', '01-JAN-2020 00:00:00', '01-JAN-2020 23:59:59'\nRun adhoc?: Yes\nEstimated Hours to Build:  60",
 			"descData": {
 				"emoji": {}
 			},
