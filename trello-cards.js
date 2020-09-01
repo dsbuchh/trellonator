@@ -23,17 +23,40 @@ function loadTrelloCards(url){
 
 	console.log('loading file:' + url);
 
-	if(url && url.search('.json') > 0){
-		fetch(url).then(function(response){
-			response.json().then(function(json) {
-				trelloCardsJSON = json;
-				renderHeaderHTML();
-				buildMemberMap(trelloCardsJSON.members);
-				buildCardList(trelloCardsJSON.cards);
-				renderCardTableHTML(trelloCardsJSON);
-			});
+	if(!url || url.search('.json') <= 0){
+		renderError(url, 'Invalid filename');
+		return -1;
+	}
+
+	fetch(url).then(function(response){
+		response.json().then(function(json) {
+			trelloCardsJSON = json;
+			renderHeaderHTML(trelloCardsJSON);
+			buildMemberMap(trelloCardsJSON.members);
+			buildCardList(trelloCardsJSON.cards);
+			renderCardTableHTML();
+		}).catch(function(err) {
+			console.log('Fetch problem: ' + url + ' ' +  err.message);
+			renderError(url, err.message);
 		});
-	}	
+	});
+	
+
+	function renderError(url, errMessage){
+		let hdr = document.querySelector('#trelloboardHdr');
+		let headerInfo = [];
+		headerInfo.push('<div class = "error">');
+		headerInfo.push('<h1>');
+		headerInfo.push('Error loading json file:');
+		headerInfo.push(url);
+		headerInfo.push('</h1>');
+		headerInfo.push('<p>');
+		headerInfo.push(errMessage);
+		headerInfo.push('</p>');
+		headerInfo.push('</div>');
+		hdr.innerHTML = headerInfo.join('');
+	}
+
 
 	function renderHeaderHTML(board){
 		let hdr = document.querySelector('#trelloboardHdr');
@@ -45,7 +68,7 @@ function loadTrelloCards(url){
 		headerInfo.push("</h1>");
 		headerInfo.push("<p class='italic'>");
 		headerInfo.push("Board Last Updated: ");
-		headerInfo.push(board.dateLastActivity.slice(0,15));
+		headerInfo.push(board.dateLastActivity.slice(0,16));
 		headerInfo.push("</p>");
 
 		hdr.innerHTML = headerInfo.join('');
