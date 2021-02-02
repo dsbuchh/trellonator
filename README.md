@@ -4,7 +4,7 @@
 
 - From the Trello Menu - More - Print and Export - Export as JSON
 	- [Completed Board JSON File Export](https://trello.com/b/ExM7la3B.json)
-- push or upload json file to github pages repo
+- Push or upload json file to github pages repo
 	- [trellonator github repo](https://github.com/dsbuchh/trellonator.git) 
 	- Default filename: jump-completed.json
 - Open Board Viewer github page:
